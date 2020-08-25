@@ -1,3 +1,4 @@
+# _*_ coding: utf-8 _*_
 import matplotlib.pyplot as plt 
 from matplotlib.patches import Polygon 
 fig = plt.figure() 
